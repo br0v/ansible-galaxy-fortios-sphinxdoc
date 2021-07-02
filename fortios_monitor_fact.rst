@@ -1800,7 +1800,7 @@ Notes
 
    - Not all parameters are required for a slector.
 
-   - This module is exclusivly for FortiOS monitor API.
+   - This module is exclusively for FortiOS monitor API.
 
    - The result of API request is stored in ``results``.
 
